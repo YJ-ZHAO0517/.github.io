@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yongjian Zhao / Site Title"
+title                    : "Yongjian Zhao / Personal Website "
 title_separator          : "-"
 name                     : &name "Yongjian Zhao"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yongjian (Chris) Zhao"
+  name             : "Dr. Yongjian (Chris) Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Robotic-Enable Surgical Autonomy"
   location         : "Hong Kong, China"
