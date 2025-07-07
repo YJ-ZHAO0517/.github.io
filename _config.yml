@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yongjian Zhao / Site Title"
 title_separator          : "-"
 name                     : &name "Yongjian Zhao"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong, China"
-  employer         : "Chinese University of HongKong"
+  employer         : "Chinese University of Hong Kong"
   uri              : # URL
   email            : "yongjian.zhao1995@link.cuhk.edu.hk" 
 
