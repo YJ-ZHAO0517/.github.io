@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongjian ZHAO and Huihui"
+title: "Robotic-enable Surgical Automany"
 author_profile: true
 redirect_from: 
   - /about/
